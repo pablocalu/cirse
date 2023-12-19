@@ -5580,7 +5580,7 @@ body {
 }
 
 .bg-primary {
-    background-color: #f96332 !important;
+    background-color: #FDCAE1 !important;
 }
 
 .bg-info {
@@ -9649,7 +9649,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .page-header[filter-color="orange"] {
-    background: rgba(44, 44, 44, 0.2);
+    background: rgba(252, 183, 175, 1);
     /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(90deg, rgba(44, 44, 44, 0.2), rgba(224, 23, 3, 0.6));
     /* For Safari 5.1 to 6.0 */
